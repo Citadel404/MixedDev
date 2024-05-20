@@ -12,5 +12,6 @@
   </head>
   <body>
   $END$
+  <a href="front/Vue3Test1/dist/index.html">首页</a>
   </body>
 </html>

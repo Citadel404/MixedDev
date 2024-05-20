@@ -27,3 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/web/front/Vue3Test1/node_modules/
